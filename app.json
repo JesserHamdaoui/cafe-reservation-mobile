@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "cafe-reservation-mobile",
-    "slug": "cafe-reservation-mobile",
+    "name": "cafe-reservation",
+    "slug": "cafe-reservation",
     "version": "1.0.0",
     "orientation": "portrait",
     // "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "cafe-reservation",
     "userInterfaceStyle": "automatic",
     "splash": {
       // "image": "./assets/images/splash.png",
