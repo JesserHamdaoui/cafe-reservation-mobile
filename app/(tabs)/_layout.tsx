@@ -25,6 +25,21 @@ const TabsLayout = () => {
       <Tabs
         screenOptions={{
           tabBarShowLabel: false,
+          tabBarStyle: {
+            backgroundColor: colors.primary[50],
+            height: 65,
+            borderWidth: 2,
+            borderColor: colors.primary[200],
+            borderRadius: 20,
+            position: "absolute",
+            bottom: 30,
+            width: "90%",
+            marginHorizontal: "5%",
+            shadowColor: colors.primary[400],
+            paddingHorizontal: 10,
+            paddingTop: 20,
+            paddingBottom: 20,
+          },
         }}
       >
         <Tabs.Screen
