@@ -8,7 +8,7 @@ const SignUp = () => {
   return (
     <SafeAreaView className=" bg-primary-50">
       <ScrollView contentContainerStyle={{ height: "100%" }}>
-        <View className="pt-10 px-10">
+        <View className="pt-5 px-10">
           <View className="">
             <Text className="font-1-semibold text-3xl text-primary-700 text-center">
               Sign Up
